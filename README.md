@@ -1,4 +1,4 @@
-# FANDOM-Scraper
+# FanWiki-Scraper
 Scrapes data of the following from the Fandom.com
 - Assassin's Creed
 - God of War
